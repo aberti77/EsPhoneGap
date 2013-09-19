@@ -50,6 +50,6 @@
     
     <gap:plugin name="com.adobe.plugins.pushplugin" />
    
-    
+    <access origin="*.pushwoosh.com"/>
     <access origin="http://127.0.0.1*" />
 </widget>
